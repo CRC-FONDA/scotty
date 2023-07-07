@@ -315,3 +315,7 @@ applications that use specialized window operations
   publisher={Springer}
 }
 ```
+
+### Experimental Data
+We created an archive for the data used in the experiments.
+It can be downloaded via [https://zenodo.org/record/8120787/files/DEBS-Data.tar.gz?download=1](https://zenodo.org/record/8120787/files/DEBS-Data.tar.gz?download=1).
